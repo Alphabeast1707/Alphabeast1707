@@ -33,7 +33,7 @@
 <!-- ─── SOCIAL BADGES — MARIO PALETTE ─── -->
 
 <a href="mailto:chaudharyharshit1775@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-E52521?style=for-the-badge&logoColor=white" alt="Email"/></a>&nbsp;
-<a href="[https://www.linkedin.com/in/harshit-chaudhary-b48604267/](https://www.linkedin.com/in/harshit-chaudhary-33b8141ab/)"><img src="https://img.shields.io/badge/🔗_LINKEDIN-049CD8?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/harshit-chaudhary-33b8141ab/"><img src="https://img.shields.io/badge/🔗_LINKEDIN-049CD8?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://github.com/Alphabeast1707"><img src="https://img.shields.io/badge/🐙_GITHUB-171515?style=for-the-badge&logoColor=white" alt="GitHub"/></a>&nbsp;
 
 </div>
