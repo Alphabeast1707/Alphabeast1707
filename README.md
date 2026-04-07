@@ -64,11 +64,6 @@
 ---
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=github-dark-blue&background=0D0D0D&border=B9FF4B&stroke=B9FF4B&ring=B9FF4B&fire=B9FF4B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B9FF4B&sideLabels=888888&dates=666666" height="150"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=B9FF4B&labelColor=111111" alt="profile views"/>
