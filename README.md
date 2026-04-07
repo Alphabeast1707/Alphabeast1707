@@ -88,7 +88,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 <details>
 <summary> <b>ML Experimentation Platform</b> — <code>Team Lead</code> &nbsp; <img src="https://img.shields.io/badge/Feb_2025–Apr_2025-43B047?style=flat-square" /> </summary>
