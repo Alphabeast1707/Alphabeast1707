@@ -38,57 +38,22 @@
 
 </div>
 
----
+## `> whoami`
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                        NEOFETCH / ABOUT ME                          -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-### 🖥️ `harshit@mushroom-kingdom:~$ neofetch`
-
-```properties
-                                      
-     ___________                        harshit@mushroom-kingdom
-    |     ?     |                       ────────────────────────────
-    |___________|                       Player .... Harshit Chaudhary
-    |           |                       Role ..... AI & ML Engineer
-    |   ?   ?   |                       Server ... Karnavati University, Gandhinagar
-    |___________|                       Class .... B.Tech CSE (AI & ML)
-         ██                             Level .... 3rd Year (Graduating May 2027)
-        ████                            XP ....... 7.6 CGPA (5 Semesters)
-       ██████                           Shell .... Python / C++ / Java / SQL
-      ████████                          Toolkit .. VS Code • Cursor • Git & GitHub
-     ██████████                         Engine ... Neural Networks & Intelligent Systems
-    ████████████                        Guild .... GDG On Campus KU (Technical Head)
-    ████████████                        Side Quest Game Dev • Web Dev • Drone Tech
-      ██    ██                          Status ... 🟢 Online — Open to Collaborate
-     ████  ████                         
-                                      
+```json
+{
+  "role"    : "Founder @ Cogniv AI  |  B.Tech AIML — Semester 6",
+  "focus"   : ["Autonomous Systems", "Agentic AI", "LLM + RL Synthesis"],
+  "building": ["GPS-denied drone (IRoC-U 2026)", "SentinelCore", "DripGen"],
+  "research": "Agentic loop architecture — LLM + RL for autonomous security",
+  "vibe"    : "shipping > talking"
+}
 ```
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                     WORLD 1-1 : POWER-UPS / SKILLS                  -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  ★  W O R L D   1 - 1  :  P O W E R - U P S                    │
-│     ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─                    │
-│     "Every hero needs the right power-ups."                      │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 <br>
 
 <div align="center">
 
-#### 🍄 Languages
+####  Languages
 
 <img src="https://img.shields.io/badge/Python-E52521?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-049CD8?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -100,7 +65,7 @@
 
 <br><br>
 
-#### 🔥 Fire Flower — Frameworks & Tools
+#### Frameworks & Tools
 
 <img src="https://img.shields.io/badge/Streamlit-E52521?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-43B047?style=flat-square&logo=fastapi&logoColor=white" />
@@ -112,7 +77,7 @@
 
 <br><br>
 
-#### ⭐ Star — Dev Environment
+#### Dev Environment
 
 <img src="https://img.shields.io/badge/VS_Code-049CD8?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-171515?style=flat-square&logo=cursor&logoColor=white" />
@@ -120,26 +85,6 @@
 <img src="https://img.shields.io/badge/Jupyter_Notebook-F5A623?style=flat-square&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Colab-FAB818?style=flat-square&logo=googlecolab&logoColor=black" />
 <img src="https://img.shields.io/badge/Postman-E52521?style=flat-square&logo=postman&logoColor=white" />
-
-</div>
-
-<br>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                    WORLD 1-2 : QUEST LOG / PROJECTS                 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  ★  W O R L D   1 - 2  :  Q U E S T   L O G                    │
-│     ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─                    │
-│     "It's-a me, building cool things!"                           │
-└──────────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
