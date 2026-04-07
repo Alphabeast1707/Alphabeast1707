@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/SQL-049CD8?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-FAB818?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<br><br>
+<br>
 
 #### Frameworks & Tools
 
@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/Firebase-FAB818?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Heroku-7952B3?style=flat-square&logo=heroku&logoColor=white" />
 
-<br><br>
+<br>
 
 #### Dev Environment
 
