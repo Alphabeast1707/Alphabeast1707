@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B9FF4B&height=160&section=header&text=HARSHIT&fontSize=72&fontColor=111111&animation=fadeIn&fontAlignY=58&desc=The%20Future%20of%20AI%20is%20Here.%20We're%20Building%20It.&descAlignY=78&descSize=14&descColor=111111" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B9FF4B&height=160&section=header&text=HARSHIT&fontSize=72&fontColor=111111&fontAlignY=58&desc=The%20Future%20of%20AI%20is%20Here.%20We're%20Building%20It.&descAlignY=78&descSize=14&descColor=111111" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=B9FF4B&background=00000000&center=true&vCenter=true&width=720&lines=AI+Engineer+%26+Founder+%40+Cogniv+AI;GPS-Denied+Autonomous+Drone+%E2%80%94+IRoC-U+2026+%7C+Round+2;SentinelCore+%7C+Agentic+LLM%2BRL+Security+Agent;DripGen+%7C+AI-Powered+Fashion+Generation;B.Tech+AIML+%7C+Sem+6+%7C+Ahmedabad" alt="typing svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=B9FF4B&background=00000000&center=true&vCenter=true&width=720&lines=B.Tech+AIML+%7C+Sem+6+%7C+Ahmedabad" alt="typing svg"/>
 </div>
 
 <br/>
@@ -34,32 +34,6 @@
 
 ---
 
-## `> ls ./builds`
-
-<table>
-<tr>
-<td width="4%">🛸</td>
-<td width="30%"><b>IRoC-U 2026 — GPS-Denied Drone</b></td>
-<td>Vision-based precision landing on Raspberry Pi 4B + Pixhawk 6C Mini. AprilTag solvePnP pose estimation, EKF3 fusion via MAVLink, 8-state autonomous mission controller. Sub-15cm touchdown accuracy. <b>No GPS.</b></td>
-<td width="16%"><code>Round 2 ✓</code></td>
-</tr>
-<tr><td colspan="4"><br/></td></tr>
-<tr>
-<td>🛡️</td>
-<td><b>SentinelCore</b></td>
-<td>Agentic server security AI. 7B LLM + 4-bit quant + security LoRA + MLP action head + PPO critic. Autonomous IP blocking, process termination, file quarantine. Out-of-process policy sandbox with signed intent protocol.</td>
-<td><code>Active</code></td>
-</tr>
-<tr><td colspan="4"><br/></td></tr>
-<tr>
-<td>👕</td>
-<td><b>DripGen</b></td>
-<td>AI-powered fashion generation platform. Flux 2.1 inference, BullMQ/Redis job queue, REMBG + Real-ESRGAN post-processing, CLIP quality gating, AWS S3 + CloudFront delivery. Full-stack FastAPI + React.</td>
-<td><code>Active</code></td>
-</tr>
-</table>
-
----
 
 ## `> cat stack.sh`
 
