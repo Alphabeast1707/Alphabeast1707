@@ -25,10 +25,10 @@
 <!-- ─── ANIMATED TYPING ─── -->
 
 <a href="https://github.com/Alphabeast1707">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=E52521&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%3E+LOADING+PLAYER+PROFILE...;%3E+WELCOME+TO+THE+MUSHROOM+KINGDOM+%F0%9F%8D%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=E52521&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%3E+LOADING+PLAYER+PROFILE...;%3E%F0%9F%8D%84" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
 
 <!-- ─── SOCIAL BADGES — MARIO PALETTE ─── -->
 
