@@ -225,26 +225,6 @@ experience.forEach(e => console.log(`[${e.status}] ${e.title} @ ${e.guild}`));
 
 <br>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--              WORLD 1-4 : STAR COINS / CERTIFICATIONS                -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  ★  W O R L D   1 - 4  :  S T A R   C O I N S                  │
-│     ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─                    │
-│     "Certifications collected along the way."                    │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
 <div align="center">
 
 | 🪙 | Certification | Status |
@@ -255,55 +235,7 @@ experience.forEach(e => console.log(`[${e.status}] ${e.title} @ ${e.guild}`));
 | `★` | **Model Context Protocol: Anthropic** | ✅ Collected |
 
 </div>
-
 <br>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                  WARP ZONE : GITHUB STATS                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  ★  W A R P   Z O N E  :  G I T H U B   S T A T S              │
-│     ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─                    │
-│     "The numbers behind the adventure."                          │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Alphabeast1707">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alphabeast1707&show_icons=true&theme=radical&bg_color=0d1117&title_color=E52521&icon_color=FAB818&text_color=c9d1d9&border_color=E52521&hide_border=false&count_private=true" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Alphabeast1707">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphabeast1707&layout=compact&theme=radical&bg_color=0d1117&title_color=E52521&text_color=c9d1d9&border_color=E52521&hide_border=false&langs_count=8" alt="Top Languages" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Alphabeast1707">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alphabeast1707&theme=dark&background=0d1117&ring=E52521&fire=FAB818&currStreakLabel=43B047&sideLabels=c9d1d9&border=E52521" alt="GitHub Streak" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Alphabeast1707">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alphabeast1707&theme=darkhub&no-frame=true&margin-w=10&column=7&title_color=E52521" alt="Trophies" />
-</a>
-
-</div>
-
-<br>
-
 
 ```bash
 harshit@coder:~$ apt list --installed | grep coursework
