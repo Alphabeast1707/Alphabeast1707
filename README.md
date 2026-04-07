@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B9FF4B&height=160&section=header&text=HARSHIT&fontSize=72&fontColor=111111&fontAlignY=58&desc=The%20Future%20of%20AI%20is%20Here.%20We're%20Building%20It.&descAlignY=78&descSize=14&descColor=111111" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B9FF4B&height=160&section=header&text=HARSHIT&fontSize=72&fontColor=111111&fontAlignY=58&desc=&descAlignY=78&descSize=14&descColor=111111" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=B9FF4B&background=00000000&center=true&vCenter=true&width=720&lines=B.Tech+AIML+%7C+Sem+6+%7C+Ahmedabad" alt="typing svg"/>
