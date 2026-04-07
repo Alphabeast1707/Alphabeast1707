@@ -62,15 +62,6 @@
 </div>
 
 ---
-
-## `> git log --stats`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&bg_color=0d0d0d&border_color=B9FF4B&icon_color=B9FF4B&title_color=B9FF4B&text_color=ffffff&ring_color=B9FF4B&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&bg_color=0d0d0d&border_color=B9FF4B&title_color=B9FF4B&text_color=ffffff&hide_border=false&langs_count=6" height="165"/>
-</div>
-
 <br/>
 
 <div align="center">
