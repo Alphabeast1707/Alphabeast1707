@@ -91,11 +91,11 @@
 <br>
 
 <details>
-<summary> 🍄 <b>ML Experimentation Platform</b> — <code>Team Lead</code> &nbsp; <img src="https://img.shields.io/badge/Feb_2025–Apr_2025-43B047?style=flat-square" /> </summary>
+<summary> <b>ML Experimentation Platform</b> — <code>Team Lead</code> &nbsp; <img src="https://img.shields.io/badge/Feb_2025–Apr_2025-43B047?style=flat-square" /> </summary>
 <br>
 
 ```bash
-harshit@mushroom-kingdom:~/projects/ml-experimentation$ cat README.md
+harshit@coder:~/projects/ml-experimentation$ cat README.md
 
 # ML Experimentation Platform
 # ──────────────────────────────────────────────
@@ -116,11 +116,11 @@ harshit@mushroom-kingdom:~/projects/ml-experimentation$ cat README.md
 </details>
 
 <details>
-<summary> 🔥 <b>Agricultural Subsidy FinTech Platform</b> — <code>Personal Project</code> &nbsp; <img src="https://img.shields.io/badge/May–Jun_2024-049CD8?style=flat-square" /> </summary>
+<summary> <b>Agricultural Subsidy FinTech Platform</b> — <code>Personal Project</code> &nbsp; <img src="https://img.shields.io/badge/May–Jun_2024-049CD8?style=flat-square" /> </summary>
 <br>
 
 ```bash
-harshit@mushroom-kingdom:~/projects/agri-fintech$ cat README.md
+harshit@coder:~/projects/agri-fintech$ cat README.md
 
 # Agricultural Subsidy FinTech Platform
 # ──────────────────────────────────────────────
@@ -141,11 +141,11 @@ harshit@mushroom-kingdom:~/projects/agri-fintech$ cat README.md
 </details>
 
 <details>
-<summary> ⭐ <b>IRoC-U 2026 — GPS-Denied Autonomous Drone</b> — <code>Qualified Round 2</code> &nbsp; <img src="https://img.shields.io/badge/Jan_2026–Present-E52521?style=flat-square" /> </summary>
+<summary> <b>IRoC-U 2026 — GPS-Denied Autonomous Drone</b> — <code>Qualified Round 2</code> &nbsp; <img src="https://img.shields.io/badge/Jan_2026–Present-E52521?style=flat-square" /> </summary>
 <br>
 
 ```bash
-harshit@mushroom-kingdom:~/projects/iroc-drone$ cat README.md
+harshit@coder:~/projects/iroc-drone$ cat README.md
 
 # IRoC-U 2026 — GPS-Denied Autonomous Drone
 # ──────────────────────────────────────────────
@@ -166,11 +166,11 @@ harshit@mushroom-kingdom:~/projects/iroc-drone$ cat README.md
 </details>
 
 <details>
-<summary> 🌟 <b>TalentScout Chatbot & Agency Platform</b> — <code>Personal Project</code> &nbsp; <img src="https://img.shields.io/badge/May–Jun_2025-FAB818?style=flat-square&logoColor=black" /> </summary>
+<summary> <b>TalentScout Chatbot & Agency Platform</b> — <code>Personal Project</code> &nbsp; <img src="https://img.shields.io/badge/May–Jun_2025-FAB818?style=flat-square&logoColor=black" /> </summary>
 <br>
 
 ```bash
-harshit@mushroom-kingdom:~/projects/talentscout$ cat README.md
+harshit@coder:~/projects/talentscout$ cat README.md
 
 # TalentScout Chatbot & Digital Agency Platform
 # ──────────────────────────────────────────────
@@ -191,28 +191,8 @@ harshit@mushroom-kingdom:~/projects/talentscout$ cat README.md
 
 <br>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--              WORLD 1-3 : BOSS BATTLES / EXPERIENCE                  -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  ★  W O R L D   1 - 3  :  B O S S   B A T T L E S              │
-│     ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─                    │
-│     "Experience points earned through leadership."               │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
 ```js
-// ─── harshit@mushroom-kingdom:~$ ./show_experience.sh ───
+// ─── harshit@coder:~$ ./show_experience.sh ───
 
 const experience = [
   {
@@ -324,28 +304,9 @@ experience.forEach(e => console.log(`[${e.status}] ${e.title} @ ${e.guild}`));
 
 <br>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                       COURSEWORK / EDUCATION                        -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  ★  B O N U S   L E V E L  :  C O U R S E W O R K              │
-│     ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─                    │
-│     "Knowledge is the real 1-UP."                                │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
 
 ```bash
-harshit@mushroom-kingdom:~$ apt list --installed | grep coursework
+harshit@coder:~$ apt list --installed | grep coursework
 
 coursework/machine-learning             ████████████████████  [installed]
 coursework/artificial-intelligence      ████████████████████  [installed]
@@ -356,40 +317,6 @@ coursework/statistics-applications      █████████████�
 ```
 
 <br>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                         GAME OVER / FOOTER                          -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-                                                              
-    ╔════════════════════════════════════════════════════╗     
-    ║                                                    ║     
-    ║             G  A  M  E    O  V  E  R               ║     
-    ║                                                    ║     
-    ║         ▸ CONTINUE ?        ● YES   ○ NO           ║     
-    ║                                                    ║     
-    ║   ┌──────────────────────────────────────────┐     ║     
-    ║   │  PLAYER   : Harshit Chaudhary            │     ║     
-    ║   │  SCORE    : 7.6 CGPA                     │     ║     
-    ║   │  COINS    : 4 Certs  ·  4 Projects       │     ║     
-    ║   │  WORLD    : Gandhinagar, India            │     ║     
-    ║   │  TIME     : Graduating May 2027           │     ║     
-    ║   └──────────────────────────────────────────┘     ║     
-    ║                                                    ║     
-    ║    "Thank you, recruiter! But your offer           ║     
-    ║     is in another castle!"   — Toad                ║     
-    ║                                                    ║     
-    ╚════════════════════════════════════════════════════╝     
-                                                              
-```
-
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=Alphabeast1707&color=E52521&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br><br>
