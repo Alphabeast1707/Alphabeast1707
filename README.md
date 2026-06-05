@@ -23,9 +23,4 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=Alphabeast1707&color=E52521&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E52521&height=100&section=footer" width="100%" />
-
-</div>
-
 <!-- ─── EOF ─── -->
