@@ -6,7 +6,7 @@
 <!-- ─── ANIMATED TYPING ─── -->
 
 <a href="https://github.com/Alphabeast1707">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=E52521&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%3E+LOADING+PLAYER+PROFILE...;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=E52521&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%3E+LOADING+USER+PROFILE...;" alt="Typing SVG" />
 </a>
 
 <br>
